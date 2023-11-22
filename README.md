@@ -1,2 +1,2 @@
 # zTestClone
-mi primer repo
+mi primer repo new repo
